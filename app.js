@@ -1,4 +1,3 @@
-// Storage Controller
 const StorageCtrl = (function(){
 	// public methods
 	return {
